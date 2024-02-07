@@ -2,6 +2,9 @@
 # macOS 12.7.3 Monterey with Intel Wireless via AirportItlwm
 
 Dell 14" Latidude 7490 i5-8650U OpenCore configuration
+Has BootChime enabled, debug modes turned off, non verbose
+
+Thanks to all those that allowed me to find working configs (boy the trackpad was a fun one)
 
 ## Tested macOS version:
 macOS 12.7.3 Using latest OpenCore as of Feb 6, 2024
