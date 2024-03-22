@@ -314,9 +314,9 @@
 				<data>AACQAA==</data>
 				<key>device-id</key>
 				<data>FlkAAA==</data>
-				<key>framebuffer-conX-enable</key>
+				<key>framebuffer-con1-enable</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-conX-type</key>
+				<key>framebuffer-con1-type</key>
 				<data>AAgAAA==</data>
 			</dict>
 		</dict>
