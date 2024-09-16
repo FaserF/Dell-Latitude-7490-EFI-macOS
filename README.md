@@ -1,5 +1,5 @@
 # Dell Latitude 7490 Hackintosh EFI
-# macOS 12.7.3 Monterey with Intel Wireless via AirportItlwm
+# macOS 14 Sonoma with Intel Wireless via AirportItlwm
 
 Dell 14" Latidude 7490 i5-8650U OpenCore configuration
 Has BootChime enabled, debug modes turned off, non verbose
@@ -7,7 +7,7 @@ Has BootChime enabled, debug modes turned off, non verbose
 Thanks to all those that allowed me to find working configs (boy the trackpad was a fun one)
 
 ## Tested macOS version:
-macOS 12.7.3 Using latest OpenCore as of Feb 6, 2024
+macOS 14.7.0 Using latest OpenCore as of Sept 16, 2024
 
 ## System configuration
 - Intel Core i5-8650U
@@ -51,3 +51,4 @@ macOS 12.7.3 Using latest OpenCore as of Feb 6, 2024
 3) dortania/OpenCore-Install-Guide: https://dortania.github.io/OpenCore-Install-Guide/
 4) OpenIntelWireless/itlwm: https://github.com/OpenIntelWireless/itlwm/
 5) xzhih/one-key-hidpi：https://github.com/xzhih/one-key-hidpi
+6) acidanthera/OpenCorePkg: https://github.com/acidanthera/OpenCorePkg/releases/
